@@ -3,5 +3,4 @@ Primero había una estructura medio hecha apenas entrar a la pagina, asi que el 
 
 todos devuelven un status code 200, salvo el error intencional que devuelve 400, el error pone not found. 
 
---TP 
 
